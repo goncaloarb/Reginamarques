@@ -279,6 +279,10 @@ table {
 #event{
     background: url('../img/res02.jpg') no-repeat;
     background-size: cover;
+	}
+	#fundo{
+			background: url('../img/1.jpg') no-repeat;
+			background-size: cover;
 }
 .left-images img {
     height: 308px;
