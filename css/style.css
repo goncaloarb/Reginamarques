@@ -144,6 +144,11 @@ table {
     color: #31364c;
     font-size: 24px;
     margin-top: 0;
+	}
+	.dark-black {
+			color: #31364c;
+			font-size: 33px;
+			margin-top: 0;
 }
 .light-blue {
     color: #9699a6;
